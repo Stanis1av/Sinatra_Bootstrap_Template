@@ -1,1 +1,1 @@
-# Sinatra_Bootstrap_Template
+# Sinatra Bootstrap Template
